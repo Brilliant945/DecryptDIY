@@ -31,7 +31,7 @@
 - (void)fileManager
 {
     // 初始化文件名
-    NSString *fileName = @"shiqingquan_20180225_763B0675CC58465.log";
+    NSString *fileName = @"20180225_763B0675CC58465.log";
     
     // 创建Mac家目录
     NSString *homePath = @"/Users/xiao";
